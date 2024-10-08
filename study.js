@@ -109,10 +109,10 @@
 ////////arrow function /////////
 
 // let x = () => 8;
-// let x = _ => 8;
-// // let x = num => num*2;
-// let x = (num,num2) => num*num2;
-// console.log(x(8,4));
+let x = _ => 8;
+// let x = num => num*2;
+let x = (num,num2) => num*num2;
+console.log(x(8,4));
 
-/////////////////////////
+///////////////////////
 
